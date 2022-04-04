@@ -14,3 +14,9 @@
 // function stringClean(s){
 //     return s.replace(/\d/g, "");
 //   }
+
+
+// other possible solution
+// function stringClean(s){
+//     return s.replace(/[0-9]/g, '');
+//   }
