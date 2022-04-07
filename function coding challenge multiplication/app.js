@@ -12,3 +12,10 @@
 //     return a * b
 //    }
 //    multiply (2,8)
+
+
+
+
+
+// other possible solutions
+// multiply = (a, b) => a * b;
