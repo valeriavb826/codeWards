@@ -23,6 +23,13 @@
 
 
 // other solution
+// 1)
 // function DNAtoRNA(dna) {
 //     return dna.split("T").join("U");
 //   }
+
+// 2)
+// function DNAtoRNA(dna) {
+//      const DNAtoRNA = dna => dna.replace(/T/g, 'U');
+//   }
+
