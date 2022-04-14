@@ -26,3 +26,18 @@
 //       return false
 //     }
 //   }
+
+
+
+
+
+
+// other posible solution
+// function checkForFactor (base, factor) {
+//     const res = base % factor
+//     if(res === 0 ){
+//       return true
+//     } else {
+//       return false
+//     }
+//   }
