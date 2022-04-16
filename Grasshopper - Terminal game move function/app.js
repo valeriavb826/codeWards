@@ -4,3 +4,13 @@
 
 // Example:
 // move(3, 6) should equal 15
+
+
+
+
+
+//My solution
+
+// function move (position, roll) {
+//     return position + roll * 2
+//   }
