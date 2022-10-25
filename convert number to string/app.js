@@ -6,3 +6,11 @@
 // 123  --> "123"
 // 999  --> "999"
 // -100 --> "-100"
+
+
+
+
+// solution:
+// function numberToString(num) {
+//     return num.toString();
+//   }
