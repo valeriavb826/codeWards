@@ -9,3 +9,15 @@
 // Sam Harris => S.H
 
 // patrick feeney => P.F
+
+
+
+// solution
+// function abbrevName(name){
+
+//     const [firstName, lastName] = name.split(' ')
+//     const firstInitial = firstName.charAt(0).toUpperCase()
+//     const secondInitial = lastName.charAt(0).toUpperCase()
+//     return firstInitial + '.' + secondInitial
+
+// }
