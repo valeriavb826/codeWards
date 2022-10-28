@@ -14,3 +14,11 @@
 // function move (position, roll) {
 //     return position + roll * 2
 //   }
+
+
+// other posible solutions
+
+// function move (position, roll) {
+//     // return the new position
+//     return roll >= 1 && roll <= 6 ? roll * 2 + position : null;
+//   }
