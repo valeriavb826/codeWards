@@ -5,3 +5,20 @@
 
 
 sumArr = array => array ? array.sort((a,b) => a-b).slice(1,-1).reduce((total,num)=> total+num,0) :0
+
+
+
+// other posible answer
+
+function sumArr (arr){
+    if (arr === null || arr === undefined || arr.length <= 1){
+        return 0
+    }else{
+        arr.sort((a,b) => a - b);
+        arr.slice(1,-1);
+        return arr.reduce((first,last) => first + last,0);
+    
+    }
+}
+
+console.log(sumArr([10,5,2,20,6]))
